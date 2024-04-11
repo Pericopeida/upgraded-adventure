@@ -1,0 +1,50 @@
+[11Apr2024 00:01:54.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Killed 50 entities]
+[11Apr2024 00:03:37.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teaser1901 has completed the challenge [Centennial]
+[11Apr2024 00:04:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Set own game mode to Creative Mode]
+[11Apr2024 00:04:26.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teaser1901 has made the advancement [Amateur Archaeologist]
+[11Apr2024 00:06:51.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Set own game mode to Survival Mode]
+[11Apr2024 00:07:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teaser1901 was slain by Wither Skeleton
+[11Apr2024 00:07:09.024] [Server thread/INFO] [tombstone/]: The player Teaser1901 has successfully been saved
+[11Apr2024 00:07:12.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Set own game mode to Creative Mode]
+[11Apr2024 00:08:26.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Set own game mode to Survival Mode]
+[11Apr2024 00:13:35.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sazghettii[/[::1]:46204] logged in with entity id 19043 at (1236.9579505914703, 85.0, 133.81463599476828)
+[11Apr2024 00:13:35.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sazghettii joined the game
+[11Apr2024 00:13:35.120] [Server thread/INFO] [Jade/]: Syncing config to sazghettii (6e2a599f-be1d-33cc-882c-d6a54bb9bbad)
+[11Apr2024 00:13:37.138] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of sazghettii (18)
+[11Apr2024 00:13:37.141] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to sazghettii
+[11Apr2024 00:13:37.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[11Apr2024 00:15:57.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> ontas?
+[11Apr2024 00:16:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> por la dungeon de ayer
+[11Apr2024 00:16:32.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> ando en otra quieres venir?
+[11Apr2024 00:16:38.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> ay buen loot?
+[11Apr2024 00:16:43.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> puro diamante
+[11Apr2024 00:16:44.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> xd
+[11Apr2024 00:16:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> voy espera
+[11Apr2024 00:16:56.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> un ratito me haces tp
+[11Apr2024 00:17:36.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> vaaa
+[11Apr2024 00:17:49.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> si te saca o algo me dices ayer estuve sacando varios codigos
+[11Apr2024 00:17:55.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> para no tener que estar esperando
+[11Apr2024 00:20:57.520] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pet Shop Owner'/19063, l='ServerLevel[world]', x=1235.75, y=82.75, z=185.30] died, message: 'Pet Shop Owner was slain by Door Knight'
+[11Apr2024 00:20:57.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> vengo voy a traer mis palomitas
+[11Apr2024 00:22:17.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> oks
+[11Apr2024 00:22:23.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> ya lista
+[11Apr2024 00:22:29.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Teaser1901> te hago tp?
+[11Apr2024 00:22:31.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sazghettii> si
+[11Apr2024 00:22:37.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Teaser1901: Teleported sazghettii to Teaser1901]
+[11Apr2024 00:23:01.901] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[jline-reader-3.12.1.jar%2363!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.2.23-universal.jar%23330!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:84) ~[server-1.20.1-20230612.114412-srg.jar%23325!/:?]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[jline-terminal-3.12.1.jar%2364!/:?]
+	... 4 more
+[11Apr2024 00:23:01.950] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[11Apr2024 00:23:01.956] [Server thread/INFO] [luckperms/]: Closing storage...
